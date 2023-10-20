@@ -248,6 +248,43 @@ h1, h2, h3, h4, h5, h6, p, form {
 }
 
 #validtext a:hover{
+	<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>流浪貓</title>
+  <style>
+    /* CSS樣式表 */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f1f1f1;
+    }
+    #logo {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    #logo h1 {
+      margin: 0;
+    }
+    #slogan {
+      background-color: #fff;
+      color: #333;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div id="logo">
+    <h1>流浪貓</h1>
+  </div>
+  <div id="slogan">
+    <h2>讓我們一起關注流浪貓的安危</h2>
+  </div>
+</body>
+</html>
 	font-family:"Trebuchet MS";
 	font-size:11px;
 	color:#fff;
