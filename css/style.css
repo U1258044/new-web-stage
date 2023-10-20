@@ -50,6 +50,22 @@ h1, h2, h3, h4, h5, h6, p, form {
 	text-decoration:none;
 	padding-left:75px;
 }
+#logo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#logo h1 {
+  font-size: 28px;
+  color: #333;
+}
+
+#logo h4 {
+  font-size: 16px;
+  color: #666;
+  margin-top: 5px;
+}
+
 
 #links ul {
 	margin:0px; 
